@@ -4,7 +4,8 @@ A simple and user-friendly desktop weather application built with Python. Get re
 
 ## 📸 Screenshot
 
-![Weather App Demo](screenshot.png)
+<img width="754" height="835" alt="image" src="https://github.com/user-attachments/assets/17b59bf4-3b6a-41ff-9aff-a618a68359f7" />
+
 
 ## ✨ Features
 
@@ -25,11 +26,3 @@ A simple and user-friendly desktop weather application built with Python. Get re
 | Requests | API calls |
 | WeatherAPI.com | Weather data provider |
 
-## 📁 Project Structure
-Weather_App/
-├── weather_app.py # Main application with GUI
-├── api.py # API call logic
-├── utils.py # Helper functions (icons, conversions)
-├── config.py # API key configuration
-├── requirements.txt # Dependencies
-└── README.md # Documentation
